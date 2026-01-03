@@ -1,0 +1,7 @@
+temperature,humidity,time_of_day,predicted_mood
+30,50,afternoon,Happy
+27,60,afternoon,Happy
+21,60,night,Neutral
+19,86,night,Sad
+21,89,night,Sad
+33,89,afternoon,Happy
